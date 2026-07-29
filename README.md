@@ -1,5 +1,5 @@
 # DatcampV2_design_portofolio
-Coordinator of the PDD Division for DatCamp vol 2
+Portofolio Design as a Coordinator of the PDD Division for DatCamp vol 2
 
 As the Coordinator of the PDD Division for Datcamp Vol 2, I led the planning and execution of visual design, publication materials, and event documentation for both the Data Science Webinar and the Datcamp Vol 2 Bootcamp.
 
